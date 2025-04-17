@@ -1,0 +1,5 @@
+Feature,random_forest,mutual_info,lasso,Average Rank
+gammagt,1,1,1,1.0
+mcv,4,3,2,3.0
+alkphos,2,4,3,3.0
+sgpt,3,2,4,3.0
