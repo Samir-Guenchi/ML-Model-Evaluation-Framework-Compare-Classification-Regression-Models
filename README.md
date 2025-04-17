@@ -1,0 +1,2 @@
+# ML-Model-Evaluation-Framework-Compare-Classification-Regression-Models
+A Python-based machine learning project for comparing multiple models on classification and regression tasks. Includes data preprocessing, feature selection, model evaluation, and visualization components. Analyzes Decision Trees, Random Forests, KNN, SVM, Neural Networks and more to identify the best-performing model for your dataset.
